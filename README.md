@@ -1,4 +1,5 @@
 # DEMO
 First Git repository. 
 <br>
-Author-Mahi
+Author- Rose
+Movie -Titanic
